@@ -15,7 +15,6 @@ I have a strong interest in Machine Learning but as it was not in my university 
 
 I am always ready to work in a team and motivate others with my tasks.
 
-#### Links
 [Visit my Website](https://akshatworks.online)
 <br>
 [Visit my LinkedIn Profile](https://www.linkedin.com/in/akshat-srivastava-408048185/)
