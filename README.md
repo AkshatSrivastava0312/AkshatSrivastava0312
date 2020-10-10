@@ -3,7 +3,7 @@
 ```
 print ("Hello, I am Akshat Srivastava")
 ```
-#### [Download my CV](https://drive.google.com/file/d/1Peec9MGsEoOPzngBzGP0cBZZh8cOv7Q3/view?usp=sharing)
+#### [Download my CV](https://drive.google.com/file/d/1nDFfd3G3axvT0Zg8GwAejxk46B05iI9M/view?usp=sharing)
 
 #### Keywords
 Self Learner || Pursuing B.Tech (C.S.E.) || Machine Learning Aspirant || Web Developer || Ready for Opportunities
