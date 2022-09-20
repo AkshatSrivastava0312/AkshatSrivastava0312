@@ -3,10 +3,8 @@
 ```
 print ("Hello, I am Akshat Srivastava")
 ```
-#### [Get my CV](https://drive.google.com/file/d/1e3h_LpyDoBmLp66hyiRdoH5cwoppIEV2/view?usp=sharing)
-
 #### Keywords
-Software Enginner Trainee || Hexaware Technologies
+Associate Software Engineer || Hexaware Technologies
 
 [Visit my Website](http://akshatsrivastava.pythonanywhere.com/)
 <br>
