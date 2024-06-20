@@ -4,7 +4,7 @@
 print ("Hello, I am Akshat Srivastava")
 ```
 #### Keywords
-Associate Software Engineer || Hexaware Technologies
+Microsoft Certified Azure Fundamentals | Full Stack Web Development and Business Intelligence & Analytics Professional | Associate Software Engineer at Hexaware Technologies | Backend Web Development Trainee at Crio.Do
 
 [Visit my Website](http://akshatsrivastava.pythonanywhere.com/)
 <br>
